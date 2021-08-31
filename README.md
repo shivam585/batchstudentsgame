@@ -1,1 +1,1 @@
-# batchstudentsgame
+# bullet-game
